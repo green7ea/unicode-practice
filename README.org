@@ -1,0 +1,22 @@
+* Unicode Practice
+
+This is a simple program to generate exercises to practice converting to
+Unicode. To use, simply install nodejs:
+
+** Installing
+
+- On Ubuntu
+
+#+begin_src
+sudo apt install nodejs
+#+end_src
+
+- On Windows visit [[https://nodejs.org/en/][nodejs.org]]
+
+** Running
+
+To run the program, from a command line, in the project folder, simply run:
+
+#+begin_src
+nodejs index.js
+#+end_src
